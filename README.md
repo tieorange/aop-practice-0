@@ -44,7 +44,7 @@ Hello, World!
 ## Перевірка навчальних платформ
 
 - **LeetCode:** у задачі [Two Sum](https://leetcode.com/problems/two-sum/) вибрано Java; запуск початкового шаблону дав очікувану помилку компіляції, яка підтверджує роботу платформи. Пробну спробу надіслано.
-- **HackerRank:** задачу [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/submissions) прийнято з результатом 3 бали. На момент виконання перша зірка в розділі Java вимагала 25 балів, тому одна вступна задача зірки не дає.
+- **HackerRank:** задачу [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/submissions) прийнято з результатом 3 бали. На момент виконання перша зірка в розділі Java вимагала 25 балів, тому одна вступна задача зірки не дає. Позначка `Java 7` на знімку стосується компілятора HackerRank, а не JDK, встановленого на комп'ютері.
 - **ChatGPT:** обліковий запис активний; сервіс відповів на навчальний запит про помилку `Could not find or load main class`.
 - **Claude:** вебобліковий запис активний, план Free. Команда `claude --version` показує `2.1.205`, але тариф Free не включає використання Claude Code. Платну підписку не оформлено.
 
@@ -61,7 +61,7 @@ Hello, World!
 
 ### Параметри автора Git
 
-![Вивід git config --global --list для user.email та user.name](evidence/git-config.png)
+![Перші два рядки git config --global --list з user.email та user.name](evidence/git-config.png)
 
 ### SSH-з'єднання з GitHub
 
